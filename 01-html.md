@@ -12,7 +12,7 @@ Todo documento HTML começa com uma estrutura básica:
 <!DOCTYPE html>
 <!-- Declaração do tipo de documento -->
 
-<html lang="pt-br">
+<html lang="pt-BR">
 <!-- Tag de abertura do elemento HTML com atributo de idioma -->
 
 <head>
